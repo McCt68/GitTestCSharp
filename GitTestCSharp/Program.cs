@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // SECOND BRANCH
+            Console.WriteLine("Second local branch");
         }
     }
 }
